@@ -1,10 +1,10 @@
-package com.example.wellington.acelometro;
+package com.example.wellington.wuchibifang;
 
 import android.content.Context;
-import android.support.test.InstrumentationRegistry;
+import android.support.test.AndroidJUnit4;
 import android.support.test.runner.AndroidJUnit4;
 
-import org.junit.Test;
+import android.support.Test;
 import org.junit.runner.RunWith;
 
 import static org.junit.Assert.*;
